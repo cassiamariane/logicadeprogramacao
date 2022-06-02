@@ -1,7 +1,4 @@
-<meta charset="UTF-8">
-<script>
-
-    var loginCadastrado = "alura";
+var loginCadastrado = "alura";
     var senhaCadastrada = "alura321";
 	
 	var maximodeTentativas = 3;
@@ -25,5 +22,3 @@
 		
         tentativaAtual = tentativaAtual +1  
     }
-
-</script>
